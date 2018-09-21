@@ -31,6 +31,7 @@
     "node": ">=0.10.0"
   },
   "dependencies": {
+    "angular-miller-columns": "^1.3.2",
     "generator-karma": "^2.0.1"
   },
   "scripts": {
